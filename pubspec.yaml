@@ -1,0 +1,31 @@
+name: betstats_app
+description: A new Flutter project.
+publish_to: 'BetStats'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.6.1
+  firebase_core: ^2.15.0
+  cloud_firestore: ^4.7.1
+  ionicons: 0.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
