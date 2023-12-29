@@ -1,3 +1,3 @@
-# BetStatsApp
+# Football Stats App
 
-Flutter app that allows to view the statistics of the main championship in Europe.
+Flutter app that allows to view the statistics of the main leagues in Europe.
